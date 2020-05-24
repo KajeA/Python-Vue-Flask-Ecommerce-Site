@@ -9,7 +9,7 @@
 ### Developer's Githubs:
 [Richard Avery](https://github.com/Gander-Alexander) | [Kaje J](https://github.com/KajeA) | [J.R. Muri](https://github.com/JulesRuby)
 
-### [LIVE SITE](https://boner-boiz.web.app)
+### [LIVE SITE](https://sentry.julesruby.dev/)
 
 ### Attribution:
 
